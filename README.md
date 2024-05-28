@@ -1,6 +1,7 @@
 - 👋 Hi, I’m <b>Mariam</b> !
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently improving <b>Java</b>, <b>Python</b> and <b>Javascript</b>..
+- 🔧 I'm developing with differents stacks <b>Java</b>, <b>Python</b> and <b>Javascript</b>.
+- 🌱 I’m currently improving in IaC with Terraform.
 - 💞️ I’m looking to collaborate on your project !
 - 📫 You can reach me on linkedin (Mariam Parviz).
 
