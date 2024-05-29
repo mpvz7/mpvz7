@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly exp
 - **Java:** Proficient in building scalable and efficient applications.
 - **Python:** Experienced in scripting, automation, and data analysis.
 - **JavaScript:** Skilled in front-end development and building dynamic web applications.
+- **TypeScript:** Enhancing JavaScript applications with type safety and improved tooling.
 - **PHP:** Knowledgeable in developing server-side scripts and web applications.
 
 ### Frameworks and Tools:
